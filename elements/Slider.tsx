@@ -401,7 +401,7 @@ function SliderFrontend({ element }: { element: any }) {
 // ─── Element Definition ───────────────────────────────────────────────────────
 const sliderElement = {
     type:     "seosight-slider",
-    category: "Slider",
+    category: "seosight",
     label:    "Hero Slider",
     icon:     "solar:carousel-bold",
 
