@@ -28,14 +28,14 @@ import timelineElement from "./elements/Timeline";
 import servicesSliderElement from "./elements/ServicesSlider";
 
 export const PLUGINS: PluginMeta = {
-    nx:          "com.system.seosight",
-    name:        "seosight",
-    version:     "1.0.0",
+    nx: "seosight",
+    name: "seosight",
+    version: "1.0.0",
     description: "Hero slider with image and content boxes.",
-    author:      "SeoSight",
-    path:        "https://github.com/HOTLancerX/seosight.git",
-    icon:        "streamline-ultimate-color:seo-search-graph",
-    color:       "from-blue-500 to-indigo-600",
+    author: "SeoSight",
+    path: "https://github.com/HOTLancerX/seosight.git",
+    icon: "streamline-ultimate-color:seo-search-graph",
+    color: "from-blue-500 to-indigo-600",
 };
 
 export function register() {
